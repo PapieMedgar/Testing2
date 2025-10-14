@@ -1,0 +1,9 @@
+[submodule "Daily_salessync"]
+	path = Daily_salessync
+	url = https://github.com/PapieMedgar/Daily_salessync.git
+[submodule "sales-sync-backend"]
+	path = sales-sync-backend
+	url = https://github.com/PapieMedgar/sales-sync-backend.git
+[submodule "salespace-scan"]
+	path = salespace-scan
+	url = https://github.com/PapieMedgar/salespace-scan.git
